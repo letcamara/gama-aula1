@@ -10,6 +10,14 @@ body {
 text-align: justify;
 }
 
+header {
+  background-color: #573e7d;
+}
+
+header li > a{
+  color: #fff !important;
+}
+
 .project_bg-color {
   background-color: #d4c7eb;
 }
